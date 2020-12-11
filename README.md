@@ -9,6 +9,8 @@ Each section of the breviary will have a corresponding folder in this repository
 
 ### Sections
 
-1.  The Common of the Season (A & B Section)
-2. The Proper of the Season  (C & D Section)
-3.  
+1.  The Common of the Season  (A & B Section)
+2.  The Proper of the Season  (C & D Section)
+3.  The Proper od the Saints  (E Section)
+4.  The Common of the Saints  (F,G,H & S Sections)\
+**Note:** Very little of the S section is planned to be done
