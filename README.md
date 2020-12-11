@@ -9,5 +9,6 @@ Each section of the breviary will have a corresponding folder in this repository
 
 ### Sections
 
-1.	Common FIles
-2. 
+1.  The Common of the Season (A & B Section)
+2. The Proper of the Season  (C & D Section)
+3.  
