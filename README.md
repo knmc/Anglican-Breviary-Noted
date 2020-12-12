@@ -8,7 +8,7 @@ Each section of the breviary will have a corresponding folder in this repository
 2.  The Proper of the Season  (C & D Section)
 3.  The Proper od the Saints  (E Section)
 4.  The Common of the Saints  (F,G,H & S Sections)\
-**Note:** ***Very little of the S section is planned to be done
+**Note:** ***Very little of the S section is planned to be done***
 
 ## Usage
 The source files will be gabc and tex files to be used with the Gregorio engraver application. For more information on Gregorio see https://gregorio-project.github.io/index.html
