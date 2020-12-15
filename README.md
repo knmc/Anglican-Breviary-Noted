@@ -15,17 +15,17 @@ Each section of the breviary will have a corresponding folder in this repository
 
 ## Purpose
 
-The purpose of this section is provide twmplates for the gabc files 
+The purpose of this section is provide templates for the gabc files 
 
 ### Structure
 
 The Structure of this section of the repository will be as follows:
 1.	Seperate folders for each of the breviary sections
-		1.1 #### Example
-			1.2 Common forms
-			2.	Orinary of the Office
-				2.1	Folders for each of the 7 Offices *(Matins & Lauds being treated as a single office*
-		2.2	Folders for each Season of the church year
+	1.1 #### Example
+	1.2 Common forms
+2.	Orinary of the Office
+	2.1	Folders for each of the 7 Offices *(Matins & Lauds being treated as a single office*
+	2.2	Folders for each Season of the church year
 
 
 
