@@ -26,10 +26,12 @@ The Structure of this section of the repository will be as follows:
     -  Folders for each of the 7 Offices *(Matins & Lauds being treated as a single office*
 3.   The Psalter
 	 -  Folder for Each day of the week
-	    -  Will contain both the Psalm and the Antiphon
+	    -  Will contain both the Psalm and the Antiphons
 		-  Will also contain a text file with the full text of the psalm as it may be needed in the preperation of the Proper of a Saint.
 		
 ### The Proper of the Season
+1.  Separate folders for the seasons of the church year
+
 
 #### Breviary C Section
 
