@@ -9,7 +9,7 @@ Each section of the breviary will have a corresponding folder in this repository
 
 1.  The Common of the Season  (A & B Section)
 2.  The Proper of the Season  (C & D Section)
-3.  The Proper od the Saints  (E Section)
+3.  The Proper of the Saints  (E Section)
 4.  The Common of the Saints  (F,G,H & S Sections)\
 **Note:** ***Very little of the S section is planned to be done***
 
@@ -23,7 +23,7 @@ The Structure of this section of the repository will be as follows:
 1.  Seperate folders for each of the breviary sections
     - Common forms
 2.  Orinary of the Office
-    -  Folders for each of the 7 Offices *(Matins & Lauds being treated as a single office*
+    -  Folders for each of the 7 Offices *(Matins & Lauds being treated as a single office)*
 3.   The Psalter
 	 -  Folder for Each day of the week
 	    -  Will contain both the Psalm and the Antiphons
